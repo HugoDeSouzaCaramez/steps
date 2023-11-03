@@ -1,5 +1,6 @@
 <p>Projeto steps com memoria dos estados</p>
 <p>Initialize project using Create React App</p>
+<p>React Developer Tools extensão Google Chrome</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
